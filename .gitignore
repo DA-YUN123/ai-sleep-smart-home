@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*.joblib
+.DS_Store
+
+# Local/raw data and generated personal reports
+Data/
+**/수면분석결과/
+**/생성된 수면 리포트_정답/
